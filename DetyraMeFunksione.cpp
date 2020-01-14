@@ -49,7 +49,7 @@ int main()
 		<< "9 per te gjetur dyshet e numrit n\n"
 		<<"10 per te hequr karakter\n"
 		<<"11 per te gjetur faktoret e nje numri\n"
-		<<"13 per te gjetur SHMVP te dy numrave\n"
+		<<"12 per te gjetur SHMVP te dy numrave\n"
 		<< "13 per te kthyer nje string mbrapsht\n";
 
 		
